@@ -1,0 +1,9 @@
+development:
+    port: 8080
+    redis:
+        url: "replace"
+    session:
+        secret: "replace"
+        cookieName: "replace"
+    cors:
+        - "optional"
